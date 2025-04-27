@@ -1,5 +1,23 @@
 python-dotenv
-# Dùng để đọc file .env
+Dùng để đọc file .env
 
 schedule
-#Dùng để lên lịch chạy tự động tác vụ vào thời gian nhất định
+Dùng để lên lịch chạy tự động tác vụ vào thời gian nhất định
+
+os
+Quản lý đường dẫn file, kiểm tra file tồn tại
+
+shutil
+Copy file
+
+time
+Lấy thời gian hiện tại, tạm dừng chương trình
+
+smtplib
+Gửi email qua giao thức smtp
+
+email.mime.text
+Tạo nội dung email dạng text.
+
+email.mime.multipart
+Tạo email nhiều phần (subject, body)
