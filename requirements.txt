@@ -1,2 +1,5 @@
 python-dotenv
+# Dùng để đọc file .env
+
 schedule
+#Dùng để lên lịch chạy tự động tác vụ vào thời gian nhất định
